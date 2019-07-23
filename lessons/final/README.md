@@ -1,1 +1,0 @@
-This repository contains the code to follow along with React Native: Getting Started course on pluralsight.com.
